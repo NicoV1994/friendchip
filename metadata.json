@@ -1,5 +1,6 @@
 {
   "name": "FriendChip",
   "symbol": "FRC",
+  "description": "Coin for friends.",
   "image": "https://raw.githubusercontent.com/NicoV1994/friendchip/main/logo.png"
 }
